@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 CeylonX Studio
+# 🌐 CeylonX Studios
 
 ### Creative Web Design & Development from Sri Lanka
 
