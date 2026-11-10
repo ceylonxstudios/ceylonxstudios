@@ -50,9 +50,8 @@ We design and build modern, responsive websites for businesses and growing brand
 Interested in working together? Contact us:
 
 - 📧 **Email:** ceylonxstudios@gmail.com
-- 🌍 **Website:** COMEINGSOON
-- 📸 **Instagram:** COMEINGSOON
-
+- 🌍 **Website:** coming soon
+- 📸 **Instagram:** coming soon
 ---
 
 <div align="center">
